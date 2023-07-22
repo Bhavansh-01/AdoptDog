@@ -1,2 +1,1 @@
-# AdoptDog
-Website to adopt dogs
+TinDog Starting Files
